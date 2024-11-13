@@ -19,3 +19,16 @@
   font-size: 40px;
   margin: 20px;
 }
+.emoji-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-style: none;
+}
+.emoji-name {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+}
